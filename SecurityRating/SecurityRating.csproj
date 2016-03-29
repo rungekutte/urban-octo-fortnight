@@ -102,9 +102,9 @@
       <DependentUpon>security_blanksDataSet.xsd</DependentUpon>
     </None>
     <None Include="security_blanksDataSet.xsd">
+      <SubType>Designer</SubType>
       <Generator>MSDataSetGenerator</Generator>
       <LastGenOutput>security_blanksDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
     </None>
     <None Include="security_blanksDataSet.xss">
       <DependentUpon>security_blanksDataSet.xsd</DependentUpon>

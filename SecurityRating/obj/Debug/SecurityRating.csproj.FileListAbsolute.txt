@@ -33,3 +33,15 @@ C:\Users\cpt. runge\Documents\GitHub\ObjSecRating\SecurityRating\SecurityRating\
 C:\Users\cpt. runge\Documents\GitHub\ObjSecRating\SecurityRating\SecurityRating\obj\Debug\SecurityRating.MainForm.resources
 C:\Users\cpt. runge\Documents\GitHub\ObjSecRating\SecurityRating\SecurityRating\obj\Debug\SecurityRating.Properties.Resources.resources
 C:\Users\cpt. runge\Documents\GitHub\ObjSecRating\SecurityRating\SecurityRating\obj\Debug\SecurityRating.csproj.GenerateResource.Cache
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\bin\Debug\SecurityRating.exe.config
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\obj\Debug\SecurityRating.exe
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\obj\Debug\SecurityRating.pdb
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\bin\Debug\security_blanks.accdb
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\bin\Debug\SecurityRating.exe
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\bin\Debug\SecurityRating.pdb
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\obj\Debug\SecurityRating.csprojResolveAssemblyReference.cache
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\obj\Debug\SecurityRating.EmpAddForm.resources
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\obj\Debug\SecurityRating.EmployeeForm.resources
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\obj\Debug\SecurityRating.MainForm.resources
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\obj\Debug\SecurityRating.Properties.Resources.resources
+C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\obj\Debug\SecurityRating.csproj.GenerateResource.Cache

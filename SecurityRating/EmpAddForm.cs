@@ -17,7 +17,7 @@ namespace SecurityRating
         private void AddEmp()
         {
             OleDbConnection empcon = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0;"
-            + @"Data source = C:\Users\cpt. runge\Documents\GitHub\objectscheck\SecurityRating\SecurityRating\security_blanks.accdb");
+            + @"Data source = C:\Users\cpt. runge\Documents\GitHub\ObjectsRating\ObjectsRating\SecurityRating\security_blanks.accdb");
             empcon.Open();
             OleDbDataAdapter empda = new OleDbDataAdapter("select * from Employees", empcon);
             OleDbCommandBuilder empcb = new OleDbCommandBuilder(empda);
@@ -44,9 +44,9 @@ namespace SecurityRating
         {
             AddEmp();
             Close();
-           
-            
+
         }
+
     }
 }
 

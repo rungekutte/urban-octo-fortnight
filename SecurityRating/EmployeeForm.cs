@@ -13,7 +13,7 @@ namespace SecurityRating
 {
     public partial class EmployeeForm : Form
     {
-        
+
         public EmployeeForm()
         {
             InitializeComponent();
@@ -23,24 +23,26 @@ namespace SecurityRating
         {
             // TODO: This line of code loads data into the 'security_blanksDataSet.Employees' table. You can move, or remove it, as needed.
             this.employeesTableAdapter.Fill(this.security_blanksDataSet.Employees);
-           
-        }
 
+        }
+      
         private void EmpEditButton_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void EmpAddButton_Click(object sender, EventArgs e)
         {
             EmpAddForm employeeAdd = new EmpAddForm();
-            employeeAdd.Show();
+            employeeAdd.ShowDialog();
+            
           
+            
         }
 
         private void EmpDeleteButton_Click(object sender, EventArgs e)
         {
-           
+
         }
     }
 }
