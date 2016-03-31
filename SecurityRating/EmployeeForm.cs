@@ -23,9 +23,8 @@ namespace SecurityRating
         {
             // TODO: This line of code loads data into the 'security_blanksDataSet.Employees' table. You can move, or remove it, as needed.
             this.employeesTableAdapter.Fill(this.security_blanksDataSet.Employees);
-
         }
-      
+
         private void EmpEditButton_Click(object sender, EventArgs e)
         {
 
@@ -35,10 +34,9 @@ namespace SecurityRating
         {
             EmpAddForm employeeAdd = new EmpAddForm();
             employeeAdd.ShowDialog();
-            
-          
-            
         }
+
+
 
         private void EmpDeleteButton_Click(object sender, EventArgs e)
         {
