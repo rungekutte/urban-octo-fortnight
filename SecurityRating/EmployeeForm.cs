@@ -13,7 +13,24 @@ namespace SecurityRating
 {
     public partial class EmployeeForm : Form
     {
-
+        private void DeleteEmp()
+        {
+            DialogResult DeleteEmpDialogResult = MessageBox.Show("Удалить запись?", "Подтверждение удаления", MessageBoxButtons.YesNo);
+            if (DeleteEmpDialogResult == DialogResult.Yes)
+            {
+                foreach (DataGridViewCell cell in empdataGridView.SelectedCells)
+                {
+                    empdataGridView.Rows.RemoveAt(cell.RowIndex);
+                }
+                OleDbConnection empcon = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0;"
+                + @"Data source = C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\security_blanks.accdb");
+                empcon.Open();
+                OleDbDataAdapter empda = new OleDbDataAdapter("select * from Employees", empcon);
+                OleDbCommandBuilder empcb = new OleDbCommandBuilder(empda);
+                empcon.Close();
+                empda.Update(security_blanksDataSet, "Employees");
+            }
+        }
         public EmployeeForm()
         {
             InitializeComponent();
@@ -29,18 +46,20 @@ namespace SecurityRating
         {
 
         }
-
         private void EmpAddButton_Click(object sender, EventArgs e)
         {
             EmpAddForm employeeAdd = new EmpAddForm();
             employeeAdd.ShowDialog();
+            OleDbConnection empcon = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0;"
+            + @"Data source = C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\security_blanks.accdb");
+            empcon.Open();
+            OleDbDataAdapter empda = new OleDbDataAdapter("select * from Employees", empcon);
+            empda.Fill(security_blanksDataSet.Employees);
+            empcon.Close();
         }
-
-
-
         private void EmpDeleteButton_Click(object sender, EventArgs e)
         {
-
+            DeleteEmp();
         }
     }
 }

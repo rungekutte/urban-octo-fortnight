@@ -57,3 +57,15 @@ C:\Users\admin\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\Se
 C:\Users\admin\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.MainForm.resources
 C:\Users\admin\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.Properties.Resources.resources
 C:\Users\admin\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.csproj.GenerateResource.Cache
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\bin\Debug\SecurityRating.exe.config
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.exe
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.pdb
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\bin\Debug\security_blanks.accdb
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\bin\Debug\SecurityRating.exe
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\bin\Debug\SecurityRating.pdb
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.csprojResolveAssemblyReference.cache
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.EmpAddForm.resources
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.EmployeeForm.resources
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.MainForm.resources
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.Properties.Resources.resources
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.csproj.GenerateResource.Cache
