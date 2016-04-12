@@ -1,0 +1,11 @@
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\bin\Release\SecurityRating.exe.config
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\bin\Release\security_blanks.accdb
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\bin\Release\SecurityRating.exe
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\bin\Release\SecurityRating.pdb
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Release\SecurityRating.EmpAddForm.resources
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Release\SecurityRating.EmployeeForm.resources
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Release\SecurityRating.MainForm.resources
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Release\SecurityRating.Properties.Resources.resources
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Release\SecurityRating.csproj.GenerateResource.Cache
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Release\SecurityRating.exe
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Release\SecurityRating.pdb

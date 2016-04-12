@@ -38,7 +38,7 @@ namespace SecurityRating
 
         private void empAddbuttonCancel_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
         }
 
         private void empAddbuttonOK_Click(object sender, EventArgs e)

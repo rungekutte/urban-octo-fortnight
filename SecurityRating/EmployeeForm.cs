@@ -15,12 +15,13 @@ namespace SecurityRating
     {
         private void DeleteEmp()
         {
-            DialogResult DeleteEmpDialogResult = MessageBox.Show("Удалить запись?", "Подтверждение удаления", MessageBoxButtons.YesNo);
+            DialogResult DeleteEmpDialogResult = MessageBox.Show("Удалить запись?",
+            "Подтверждение удаления", MessageBoxButtons.YesNo);
             if (DeleteEmpDialogResult == DialogResult.Yes)
             {
-                foreach (DataGridViewCell cell in empdataGridView.SelectedCells)
+                if (empdataGridView.CurrentRow != null)
                 {
-                    empdataGridView.Rows.RemoveAt(cell.RowIndex);
+                    empdataGridView.Rows.Remove(empdataGridView.CurrentRow);
                 }
                 OleDbConnection empcon = new OleDbConnection("Provider = Microsoft.ACE.OLEDB.12.0;"
                 + @"Data source = C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\security_blanks.accdb");
