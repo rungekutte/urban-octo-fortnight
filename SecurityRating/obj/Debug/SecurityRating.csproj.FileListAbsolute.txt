@@ -69,3 +69,4 @@ C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\Se
 C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.MainForm.resources
 C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.Properties.Resources.resources
 C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.csproj.GenerateResource.Cache
+C:\Users\runge\Documents\GitHub\urban-octo-fortnight\SecurityRating\obj\Debug\SecurityRating.EmpEditForm.resources
